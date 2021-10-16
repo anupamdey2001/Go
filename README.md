@@ -1,3 +1,3 @@
-# GoCasts
+# Go
 
-Companion repo to a course on Udemy.com
+All of my Go codes
